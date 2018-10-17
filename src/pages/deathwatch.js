@@ -25,7 +25,7 @@ const DeathWatch = () => (
       <PageTitle>When good ideas go bad</PageTitle>
       <Text>
         Please return <Link to="/">home</Link> or use the menu to navigate to a
-        different page.
+        different page. Sometimes you go big, but wind up going home. This is the place where all the blockchain geniuses come to cry.
       </Text>
     </Container>
   </Layout>
