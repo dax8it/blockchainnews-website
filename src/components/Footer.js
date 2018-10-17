@@ -63,15 +63,15 @@ const Footer = () => (
           target="_blank"
           rel="noopener noreferrer"
         >
-          gatsby-starter-gcn
+          Built with Gatsby-Starter-GCN-v2
         </a>{' '}
         by{' '}
         <a
-          href="https://github.com/ryanwiemer"
+          href="https://github.com/dax8it"
           target="_blank"
           rel="noopener noreferrer"
         >
-          @ryanwiemer
+          @alexcovo
         </a>
       </Item>
     </List>

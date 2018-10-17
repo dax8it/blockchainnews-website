@@ -60,6 +60,11 @@ const Menu = () => {
             </Link>
           </li>
           <li>
+            <Link to="/deathwatch/" activeStyle={activeLinkStyle}>
+              Deathwatch
+            </Link>
+          </li>
+          <li>
             <Link to="/contact/" activeStyle={activeLinkStyle}>
               Contact
             </Link>
